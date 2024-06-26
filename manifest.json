@@ -1,0 +1,13 @@
+{
+	"Name": "[MFM]AddMoney",
+	"Author": "Grare",
+	"Version": "1.0.0",
+	"Description": "Adds 500000g money when you start.",
+	"UniqueID": "Grare.AddMoneyMod",
+	"MinimumApiVersion": "3.8.0",
+	"UpdateKeys": [],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod",
+        "MinimumVersion": "1.16.0-alpha"
+	}
+}
